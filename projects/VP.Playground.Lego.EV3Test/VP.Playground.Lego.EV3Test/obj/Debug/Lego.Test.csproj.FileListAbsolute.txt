@@ -1,0 +1,17 @@
+E:\Projects\Temp\Lego.Test\Lego.Test\bin\Debug\Lego.Test.exe.config
+E:\Projects\Temp\Lego.Test\Lego.Test\bin\Debug\Lego.Test.exe
+E:\Projects\Temp\Lego.Test\Lego.Test\bin\Debug\Lego.Test.pdb
+E:\Projects\Temp\Lego.Test\Lego.Test\bin\Debug\Lego.Ev3.Desktop.dll
+E:\Projects\Temp\Lego.Test\Lego.Test\bin\Debug\Lego.Ev3.Desktop.xml
+E:\Projects\Temp\Lego.Test\Lego.Test\obj\Debug\Lego.Test.csprojResolveAssemblyReference.cache
+E:\Projects\Temp\Lego.Test\Lego.Test\obj\Debug\MainWindow.baml
+E:\Projects\Temp\Lego.Test\Lego.Test\obj\Debug\MainWindow.g.cs
+E:\Projects\Temp\Lego.Test\Lego.Test\obj\Debug\App.g.cs
+E:\Projects\Temp\Lego.Test\Lego.Test\obj\Debug\Lego.Test_MarkupCompile.cache
+E:\Projects\Temp\Lego.Test\Lego.Test\obj\Debug\Lego.Test.g.resources
+E:\Projects\Temp\Lego.Test\Lego.Test\obj\Debug\Lego.Test.Properties.Resources.resources
+E:\Projects\Temp\Lego.Test\Lego.Test\obj\Debug\Lego.Test.csproj.GenerateResource.Cache
+E:\Projects\Temp\Lego.Test\Lego.Test\obj\Debug\Lego.Test.exe
+E:\Projects\Temp\Lego.Test\Lego.Test\obj\Debug\Lego.Test.pdb
+E:\Projects\Temp\Lego.Test\Lego.Test\bin\Debug\VP.Playground.Lego.TestEV3.exe.config
+E:\Projects\Temp\Lego.Test\Lego.Test\bin\Debug\VP.Playground.Lego.EV3Test.exe.config
